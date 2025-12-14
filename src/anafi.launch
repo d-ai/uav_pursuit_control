@@ -1,0 +1,9 @@
+<launch>
+
+
+  <node pkg="anafi_ros1" type="uav_pid" name="pidUAV_control" output="screen" />
+  
+  <node pkg="anafi_ros1" type="uav_speed" name="uav_speed" output="screen" />
+    
+  
+</launch>

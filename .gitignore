@@ -1,0 +1,33 @@
+# ===== ROS / Catkin =====
+build/
+devel/
+install/
+log/
+
+# ===== CMake =====
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# ===== Compiled objects =====
+*.o
+*.out
+*.exe
+*.so
+*.a
+
+# ===== Python =====
+__pycache__/
+*.pyc
+
+# ===== VS Code =====
+.vscode/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Temporary files =====
+*.log
+*.tmp

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/debasmita/catkin_ws/MAVSDK/examples/takeoff_and_land/takeoff_and_land.cpp
+chrono
+-
+cstdint
+-
+mavsdk/mavsdk.h
+-
+mavsdk/plugins/action/action.h
+-
+mavsdk/plugins/telemetry/telemetry.h
+-
+iostream
+-
+future
+-
+memory
+-
+thread
+-
+

@@ -1,0 +1,3 @@
+/home/debasmita/catkin_ws/MAVSDK/examples/takeoff_and_land/build/CMakeFiles/rebuild_cache.dir
+/home/debasmita/catkin_ws/MAVSDK/examples/takeoff_and_land/build/CMakeFiles/edit_cache.dir
+/home/debasmita/catkin_ws/MAVSDK/examples/takeoff_and_land/build/CMakeFiles/takeoff_and_land.dir

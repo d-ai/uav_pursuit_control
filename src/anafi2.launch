@@ -1,0 +1,9 @@
+<launch>
+
+
+  <node pkg="anafi_ros1" type="uav_pid" name="pidUAV_control" output="screen" launch-prefix="xterm -e"/>
+  
+  <node pkg="anafi_ros1" type="uav_speed" name="anafi_speed_node" output="screen" launch-prefix="xterm -e"/>
+    
+  
+</launch>
